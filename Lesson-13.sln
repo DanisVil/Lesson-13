@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyGuide", "StudyGuide\StudyGuide.csproj", "{0B223273-BA1C-49ED-BC06-676752D14DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankDll", "BankDll\BankDll.csproj", "{A5758596-C4FF-41AB-B5A0-27BBA3E2AB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingDll", "BuildingDll\BuildingDll.csproj", "{AAF6AE3A-4460-4A33-9EE4-94F2393B20F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B223273-BA1C-49ED-BC06-676752D14DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B223273-BA1C-49ED-BC06-676752D14DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B223273-BA1C-49ED-BC06-676752D14DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B223273-BA1C-49ED-BC06-676752D14DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5758596-C4FF-41AB-B5A0-27BBA3E2AB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5758596-C4FF-41AB-B5A0-27BBA3E2AB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5758596-C4FF-41AB-B5A0-27BBA3E2AB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5758596-C4FF-41AB-B5A0-27BBA3E2AB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF6AE3A-4460-4A33-9EE4-94F2393B20F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF6AE3A-4460-4A33-9EE4-94F2393B20F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF6AE3A-4460-4A33-9EE4-94F2393B20F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF6AE3A-4460-4A33-9EE4-94F2393B20F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF4126ED-A034-4CB6-8453-C49A16956308}
+	EndGlobalSection
+EndGlobal
